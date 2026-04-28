@@ -3,19 +3,19 @@ Leet Code Solutions
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0930-binary-subarrays-with-sum](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+|  |
+| ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 ## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0930-binary-subarrays-with-sum](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+|  |
+| ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 ## Sliding Window
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0930-binary-subarrays-with-sum](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+|  |
+| ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 ## Prefix Sum
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0930-binary-subarrays-with-sum](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+|  |
+| ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 <!---LeetCode Topics End-->
