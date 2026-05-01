@@ -6,6 +6,7 @@ Leet Code Solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0048-rotate-image](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
@@ -74,6 +75,7 @@ Leet Code Solutions
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0283-move-zeroes) |
@@ -85,6 +87,7 @@ Leet Code Solutions
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
