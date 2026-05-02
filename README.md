@@ -3,11 +3,12 @@ Leet Code Solutions
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0001-two-sum](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0018-4sum) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0048-rotate-image](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
@@ -32,8 +33,8 @@ Leet Code Solutions
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vikash1630/LeetCode-Solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vikash1630/LeetCode-Solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0001-two-sum](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -46,8 +47,8 @@ Leet Code Solutions
 | [1248-count-number-of-nice-subarrays](https://github.com/vikash1630/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vikash1630/LeetCode-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 ## Sliding Window
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0930-binary-subarrays-with-sum](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
@@ -55,32 +56,32 @@ Leet Code Solutions
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vikash1630/LeetCode-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vikash1630/LeetCode-Solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 ## Prefix Sum
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0560-subarray-sum-equals-k](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vikash1630/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vikash1630/LeetCode-Solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 ## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0048-rotate-image](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0189-rotate-array](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vikash1630/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 ## Counting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0169-majority-element](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0992-subarrays-with-k-different-integers](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 ## String
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vikash1630/LeetCode-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 ## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0015-3sum](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0075-sort-colors) |
@@ -89,12 +90,12 @@ Leet Code Solutions
 | [0283-move-zeroes](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vikash1630/LeetCode-Solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Bit Manipulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0136-single-number](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
 ## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0015-3sum](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0056-merge-intervals) |
@@ -103,32 +104,33 @@ Leet Code Solutions
 | [0169-majority-element](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 ## Divide and Conquer
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0053-maximum-subarray](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0169-majority-element) |
 ## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0053-maximum-subarray](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 ## Simulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vikash1630/LeetCode-Solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Union-Find
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0128-longest-consecutive-sequence](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 ## Matrix
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0048-rotate-image](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 ## Binary Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0704-binary-search](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
 <!---LeetCode Topics End-->
