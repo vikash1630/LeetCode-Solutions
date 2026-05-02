@@ -8,6 +8,7 @@ Leet Code Solutions
 | [0001-two-sum](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0018-4sum) |
+| [0035-search-insert-position](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0048-rotate-image](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0056-merge-intervals) |
@@ -128,5 +129,6 @@ Leet Code Solutions
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0704-binary-search](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
 <!---LeetCode Topics End-->
