@@ -9,6 +9,7 @@ public:
             // Check Which half to discard 
             if (mid < n - 1 && nums[mid] == nums[mid + 1]) {
                 // Mid is double with its pair at right
+                // It means mid + 1 should be at even index so remaining are paired at right
                 if ((mid+1)%2 == 0) {
                     // Means right half elements are paired 
                     // Now single element in right half
@@ -21,6 +22,7 @@ public:
             }
             else if (mid - 1 >= 0 && nums[mid] == nums[mid - 1]) {
                 // Mid is double with its pair at left
+                // It means mid should be at even index o remaining are paired at left
                 if (mid%2 == 0) {
                     // Means right half element are paired
                     high = mid - 1;
