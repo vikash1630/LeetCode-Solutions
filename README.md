@@ -22,6 +22,7 @@ Leet Code Solutions
 | [0128-longest-consecutive-sequence](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0169-majority-element](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
@@ -136,5 +137,6 @@ Leet Code Solutions
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
 <!---LeetCode Topics End-->
