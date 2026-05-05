@@ -6,10 +6,10 @@ public:
         int high = arr.size() -1;
         while (low <= high) {
             int mid = low + (high - low)/2;
-            int check = arr[mid] - mid + 1; // means at any given ind the value should be ind + 1 if all present so to know how many before that index are not there we need to subtract element at that ind - possible element to be there
+            int check = arr[mid] - (mid + 1); // means at any given ind the value should be ind + 1 if all present so to know how many before that index are not there we need to subtract element at that ind - possible element to be there
 
             // If check > k means more than k elements are missing before that index so answer must be in left
-            if (check > k) {
+            if (check >= k) {
                 high = mid - 1;
             }
             // or else less than k elements are missing before that index so answer must be in right side
