@@ -37,6 +37,7 @@ Leet Code Solutions
 | [0992-subarrays-with-k-different-integers](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vikash1630/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vikash1630/LeetCode-Solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/vikash1630/LeetCode-Solutions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vikash1630/LeetCode-Solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -145,4 +146,5 @@ Leet Code Solutions
 | [0540-single-element-in-a-sorted-array](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/vikash1630/LeetCode-Solutions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 <!---LeetCode Topics End-->
