@@ -92,6 +92,7 @@ Leet Code Solutions
 | [0014-longest-common-prefix](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0796-rotate-string](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/vikash1630/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vikash1630/LeetCode-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/vikash1630/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
@@ -172,4 +173,8 @@ Leet Code Solutions
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
