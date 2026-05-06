@@ -53,6 +53,7 @@ Leet Code Solutions
 | [0229-majority-element-ii](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0451-sort-characters-by-frequency](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
@@ -86,6 +87,7 @@ Leet Code Solutions
 | ------- |
 | [0169-majority-element](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 ## String
 |  |
@@ -94,6 +96,7 @@ Leet Code Solutions
 | [0151-reverse-words-in-a-string](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0451-sort-characters-by-frequency](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/vikash1630/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vikash1630/LeetCode-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -124,6 +127,7 @@ Leet Code Solutions
 | [0169-majority-element](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -180,4 +184,12 @@ Leet Code Solutions
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0796-rotate-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
