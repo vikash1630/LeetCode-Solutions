@@ -92,6 +92,7 @@ Leet Code Solutions
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0008-string-to-integer-atoi](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0014-longest-common-prefix](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0242-valid-anagram) |
