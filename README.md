@@ -251,6 +251,7 @@ Leet Code Solutions
 | [0110-balanced-binary-tree](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -259,6 +260,7 @@ Leet Code Solutions
 | [0110-balanced-binary-tree](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -267,6 +269,7 @@ Leet Code Solutions
 | [0110-balanced-binary-tree](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
