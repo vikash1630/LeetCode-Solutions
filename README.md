@@ -249,6 +249,7 @@ Leet Code Solutions
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0100-same-tree) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -271,6 +272,7 @@ Leet Code Solutions
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0100-same-tree) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -281,5 +283,6 @@ Leet Code Solutions
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0100-same-tree) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
