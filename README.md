@@ -1,7 +1,7 @@
 Leet Code Solutions
 
 <!---LeetCode Topics Start-->
-# LeetCode Topics - Profile: https://leetcode.com/u/Vikash1630/
+# LeetCode Topics
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -255,6 +255,7 @@ Leet Code Solutions
 | [0124-binary-tree-maximum-path-sum](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -266,6 +267,7 @@ Leet Code Solutions
 | [0124-binary-tree-maximum-path-sum](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -278,6 +280,7 @@ Leet Code Solutions
 | [0124-binary-tree-maximum-path-sum](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -285,4 +288,5 @@ Leet Code Solutions
 | [0100-same-tree](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 <!---LeetCode Topics End-->
