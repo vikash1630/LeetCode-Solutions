@@ -267,6 +267,7 @@ Leet Code Solutions
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0701-insert-into-a-binary-search-tree](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 ## Depth-First Search
 |  |
@@ -302,6 +303,7 @@ Leet Code Solutions
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0701-insert-into-a-binary-search-tree](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 ## Breadth-First Search
 |  |
@@ -316,4 +318,5 @@ Leet Code Solutions
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0701-insert-into-a-binary-search-tree](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
