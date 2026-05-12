@@ -264,6 +264,7 @@ Leet Code Solutions
 | [0145-binary-tree-postorder-traversal](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0450-delete-node-in-a-bst) |
@@ -284,6 +285,7 @@ Leet Code Solutions
 | [0144-binary-tree-preorder-traversal](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -303,6 +305,7 @@ Leet Code Solutions
 | [0145-binary-tree-postorder-traversal](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0450-delete-node-in-a-bst) |
@@ -322,6 +325,7 @@ Leet Code Solutions
 ## Binary Search Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
