@@ -39,6 +39,7 @@ Leet Code Solutions
 | [0875-koko-eating-bananas](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
+| [0994-rotting-oranges](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/vikash1630/LeetCode-Solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/vikash1630/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vikash1630/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -184,6 +185,7 @@ Leet Code Solutions
 | ------- |
 | [0048-rotate-image](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0994-rotting-oranges](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 ## Binary Search
 |  |
 | ------- |
@@ -354,6 +356,7 @@ Leet Code Solutions
 | [0547-number-of-provinces](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
+| [0994-rotting-oranges](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 ## Binary Search Tree
 |  |
 | ------- |
