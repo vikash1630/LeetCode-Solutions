@@ -178,6 +178,7 @@ Leet Code Solutions
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 ## Matrix
 |  |
 | ------- |
@@ -309,6 +310,7 @@ Leet Code Solutions
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0547-number-of-provinces](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 ## Binary Tree
@@ -349,6 +351,7 @@ Leet Code Solutions
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0547-number-of-provinces](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 ## Binary Search Tree
@@ -376,4 +379,8 @@ Leet Code Solutions
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
