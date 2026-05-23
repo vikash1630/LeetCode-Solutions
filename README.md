@@ -30,6 +30,7 @@ Leet Code Solutions
 | [0162-find-peak-element](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0410-split-array-largest-sum/) | Hard |
@@ -185,6 +186,7 @@ Leet Code Solutions
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/vikash1630/LeetCode-Solutions/tree/master/1020-number-of-enclaves) |
 ## Matrix
@@ -193,6 +195,7 @@ Leet Code Solutions
 | [0048-rotate-image](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
@@ -320,6 +323,7 @@ Leet Code Solutions
 | [0144-binary-tree-preorder-traversal](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0200-number-of-islands](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
@@ -368,6 +372,7 @@ Leet Code Solutions
 | [0104-maximum-depth-of-binary-tree](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0130-surrounded-regions](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0200-number-of-islands](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
