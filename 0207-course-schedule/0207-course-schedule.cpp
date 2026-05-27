@@ -3,6 +3,8 @@ public:
     bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
 
         // Kahn's Algorithm in LeetCode and Stack method in gfg
+        // prerequisites[i] = [x, y]
+        // x points to y 
         int V = numCourses;
         vector<int> InDegree(V,0);
         vector<int> adj[V];
