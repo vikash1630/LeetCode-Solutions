@@ -2,6 +2,9 @@ class Solution {
 public:
     vector<int> findOrder(int numCourses, vector<vector<int>>& prerequisites) {
         // Kahn's Algorithm in LeetCode and Stack method in gfg
+        // prerequisites[i] = [x, y]
+        // here y is pointing on x 
+        // generlly x points to y 
         vector<int> adj[numCourses];
         vector<int> ans;
         vector<int> inDegree(numCourses,0);
