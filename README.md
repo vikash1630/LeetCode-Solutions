@@ -54,6 +54,7 @@ Leet Code Solutions
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/vikash1630/LeetCode-Solutions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/vikash1630/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vikash1630/LeetCode-Solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/vikash1630/LeetCode-Solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -102,6 +103,7 @@ Leet Code Solutions
 | [0189-rotate-array](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vikash1630/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/vikash1630/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/vikash1630/LeetCode-Solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
