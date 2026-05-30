@@ -260,6 +260,7 @@ Leet Code Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0743-network-delay-time](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/vikash1630/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
 ## Bucket Sort
@@ -348,6 +349,7 @@ Leet Code Solutions
 | [0547-number-of-provinces](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0733-flood-fill/) | Easy |
+| [0743-network-delay-time](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0802-find-eventual-safe-states/) | Medium |
@@ -400,6 +402,7 @@ Leet Code Solutions
 | [0547-number-of-provinces](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0733-flood-fill/) | Easy |
+| [0743-network-delay-time](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0802-find-eventual-safe-states/) | Medium |
@@ -439,6 +442,7 @@ Leet Code Solutions
 | [0207-course-schedule](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0802-find-eventual-safe-states/) | Medium |
@@ -453,6 +457,7 @@ Leet Code Solutions
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0743-network-delay-time](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/vikash1630/LeetCode-Solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
