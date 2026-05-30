@@ -1,66 +1,55 @@
 class Solution {
 public:
     int countPaths(int n, vector<vector<int>>& roads) {
-
+        vector<pair<long long,long long>> adjL[n];
         const long long MOD = 1e9 + 7;
 
-        vector<pair<int,int>> adj[n];
-
         for (auto &it : roads) {
-            int u = it[0];
-            int v = it[1];
-            int wt = it[2];
-
-            adj[u].push_back({v, wt});
-            adj[v].push_back({u, wt});
+            long long u = it[0];
+            long long v = it[1];
+            long long wt = it[2];
+            adjL[u].push_back({v,wt});
+            adjL[v].push_back({u,wt});
         }
 
+        long long src = 0;
+
         priority_queue<
-            pair<long long,int>,
-            vector<pair<long long,int>>,
-            greater<pair<long long,int>>
+            pair<long long,long long>,
+            vector<pair<long long,long long>>,
+            greater<pair<long long,long long>>
         > pq;
 
-        vector<long long> dist(n, LLONG_MAX);
-        vector<long long> ways(n, 0);
+        vector<long long> NoOfWays(n,0);
+        vector<long long> shortestWt(n,LLONG_MAX);
 
-        dist[0] = 0;
-        ways[0] = 1;
-
-        pq.push({0, 0});
+        pq.push({0,src});
+        NoOfWays[src] = 1;
+        shortestWt[src] = 0;
 
         while (!pq.empty()) {
-
-            long long dis = pq.top().first;
-            int node = pq.top().second;
+            long long wt = pq.top().first;
+            long long ele = pq.top().second;
             pq.pop();
 
-            // Skip stale entries
-            // if (dis > dist[node]) continue;
+            if (wt > shortestWt[ele]) continue;   // FIX
 
-            for (auto &it : adj[node]) {
+            for (auto &it: adjL[ele]) {
+                long long nextNode = it.first;
+                long long wtReq = it.second;
 
-                int adjNode = it.first;
-                long long wt = it.second;
-
-                // Found shorter path
-                if (dis + wt < dist[adjNode]) {
-
-                    dist[adjNode] = dis + wt;
-                    ways[adjNode] = ways[node];
-
-                    pq.push({dist[adjNode], adjNode});
+                if ((wtReq + wt) == shortestWt[nextNode]) {
+                    NoOfWays[nextNode] =
+                        (NoOfWays[nextNode] + NoOfWays[ele]) % MOD; // FIX
                 }
-
-                // Found another shortest path
-                else if (dis + wt == dist[adjNode]) {
-
-                    ways[adjNode] =
-                        (ways[adjNode] + ways[node]) % MOD;
+                else if ((wtReq + wt) < shortestWt[nextNode]) {
+                    NoOfWays[nextNode] = NoOfWays[ele];
+                    shortestWt[nextNode] = wtReq + wt; // FIX
+                    pq.push({shortestWt[nextNode], nextNode});
                 }
             }
         }
 
-        return ways[n - 1] % MOD;
+        return NoOfWays[n - 1] % MOD;
     }
 };
