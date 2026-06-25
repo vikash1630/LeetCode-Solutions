@@ -62,6 +62,7 @@ Leet Code Solutions
 | [2149-rearrange-array-elements-by-sign](https://github.com/vikash1630/LeetCode-Solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/vikash1630/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/vikash1630/LeetCode-Solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/vikash1630/LeetCode-Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -88,6 +89,7 @@ Leet Code Solutions
 | [1248-count-number-of-nice-subarrays](https://github.com/vikash1630/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vikash1630/LeetCode-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/vikash1630/LeetCode-Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/vikash1630/LeetCode-Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -105,6 +107,7 @@ Leet Code Solutions
 | [0930-binary-subarrays-with-sum](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vikash1630/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vikash1630/LeetCode-Solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/vikash1630/LeetCode-Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -121,6 +124,7 @@ Leet Code Solutions
 | [0451-sort-characters-by-frequency](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/vikash1630/LeetCode-Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/vikash1630/LeetCode-Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -190,6 +194,7 @@ Leet Code Solutions
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0148-sort-list](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/vikash1630/LeetCode-Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -316,6 +321,7 @@ Leet Code Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0148-sort-list) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/vikash1630/LeetCode-Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -489,4 +495,8 @@ Leet Code Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/vikash1630/LeetCode-Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/vikash1630/LeetCode-Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 <!---LeetCode Topics End-->
