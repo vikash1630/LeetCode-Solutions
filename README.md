@@ -63,6 +63,7 @@ Leet Code Solutions
 | [2161-partition-array-according-to-given-pivot](https://github.com/vikash1630/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/vikash1630/LeetCode-Solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vikash1630/LeetCode-Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3838-weighted-word-mapping](https://github.com/vikash1630/LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
 | ------- |
@@ -142,6 +143,7 @@ Leet Code Solutions
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vikash1630/LeetCode-Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/vikash1630/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/vikash1630/LeetCode-Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3838-weighted-word-mapping](https://github.com/vikash1630/LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
 ## Two Pointers
 |  |
 | ------- |
@@ -214,6 +216,7 @@ Leet Code Solutions
 | [1929-concatenation-of-array](https://github.com/vikash1630/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vikash1630/LeetCode-Solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/vikash1630/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3838-weighted-word-mapping](https://github.com/vikash1630/LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
 ## Union-Find
 |  |
 | ------- |
