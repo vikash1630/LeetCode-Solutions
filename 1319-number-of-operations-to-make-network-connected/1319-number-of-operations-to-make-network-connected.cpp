@@ -54,6 +54,7 @@ public:
         for (int i = 0;i<n;i++) {
             if (dis.findUpar(i) == i) Components++;
         }
+        // To Connect n graphs we need n - 1 sub graphs,  Think as nodes that is why we do Components - 1
         if (extra >= Components - 1) return Components - 1;
         return -1;
     }
