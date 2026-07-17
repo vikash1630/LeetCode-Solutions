@@ -120,6 +120,7 @@ Leet Code Solutions
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0048-rotate-image](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0189-rotate-array](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0189-rotate-array) |
@@ -330,6 +331,7 @@ Leet Code Solutions
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0061-rotate-list](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0061-rotate-list/) | Medium |
@@ -347,6 +349,7 @@ Leet Code Solutions
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0206-reverse-linked-list](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
