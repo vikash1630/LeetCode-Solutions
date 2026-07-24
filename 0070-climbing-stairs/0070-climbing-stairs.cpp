@@ -28,6 +28,18 @@ private:
         return dp[n];
     }
 
+// Optimal
+    int OptClimbStairs(int n) {
+        int prev2 = 1;
+        int prev1 = 1;
+        if (n == 0) return prev2;
+        for (int i = 2;i<=n;i++) {
+            int cur = prev1 + prev2;
+            prev2 = prev1;
+            prev1 = cur;
+        }
+        return prev1;
+    }
 
 public:
     int climbStairs(int n) {
@@ -35,6 +47,7 @@ public:
         // n + 1 since 0 is also there and n also counted
         vector<int> dp(n + 1, -1);
         // return MemClimbStairs(n, dp);
-        return TabClimbStairs(n, dp);
+        // return TabClimbStairs(n, dp);
+        return OptClimbStairs(n);
     }
 };
