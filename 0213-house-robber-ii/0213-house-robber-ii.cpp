@@ -44,6 +44,37 @@ private:
         return dp[ind] = max(take, dontTake);
     }
 
+    // Tabulation
+    int tab(vector<int>& nums, int n) {
+        vector<int> dp(n + 2, 0);
+
+        // Ignore first
+        for (int i = n - 1;i>0;i--) {
+            // Take
+            int take = dp[i + 2] + nums[i];
+
+            // Dont Take
+            int dontTake = dp[i + 1];
+
+            dp[i] = max(take, dontTake);
+
+        }
+
+        // Ignore last
+        vector<int> dp1(n + 2, 0);
+        for (int i = n - 2;i>=0;i--) {
+            // Take
+            int take = dp1[i + 2] + nums[i];
+            
+            // Dont Take
+            int dontTake = dp1[i + 1];
+
+            dp1[i] = max(take, dontTake);
+        }
+
+        return max(dp[1], dp1[0]);
+    }
+
 public:
     int rob(vector<int>& nums) {
         int n = nums.size();
@@ -51,8 +82,9 @@ public:
         // return rec(nums, n, 0);
         vector<int> dp1(n, -1);
         vector<int> dp2(n, -1);
-        int a = memIgnoreOne(nums, n, 1, dp1);
-        int b = memIgnorelast(nums, n, 0, dp2);
-        return max(a, b);
+        // int a = memIgnoreOne(nums, n, 1, dp1);
+        // int b = memIgnorelast(nums, n, 0, dp2);
+        // return max(a, b);
+        return tab(nums, n);
     }
 };
