@@ -1,5 +1,6 @@
 class Solution {
 private:
+    // Recurssion
     int Recsolve(int n, int m, int r, int c) {
         if (r == n - 1 && c == m - 1) return 1;
 
@@ -37,10 +38,32 @@ private:
 
         return dp[r][c] = right + down; 
     }
+
+    // Tabulation
+    int tab(int n, int m) {
+        vector<vector<int>> dp(n ,vector<int>(m, -1));
+        dp[n - 1][m - 1] = 1;
+        for (int row = n - 1;row >= 0;row--) {
+            for (int col = m - 1;col >= 0;col--) {
+                // If computed then ignore
+                if (dp[row][col] != -1) continue;
+                int right = 0;
+                if (col + 1 < m) right = dp[row][col + 1];
+                int down = 0;
+                if (row + 1 < n) down = dp[row + 1][col];
+        
+                dp[row][col] = right + down;
+            }
+        }
+        return dp[0][0];
+    }
+    
+
 public:
     int uniquePaths(int m, int n) {
         // return Recsolve(n, m, 0, 0);
         vector<vector<int>> dp(n, vector<int>(m, -1));
-        return Memsolve(n,m,0,0,dp);
+        // return Memsolve(n,m,0,0,dp);
+        return tab(n, m);
     }
 };
