@@ -29,6 +29,26 @@ private:
 
         return dp[r][c] = min(right, down);
     }
+
+    // Tabulation solution
+    int tab(int n, int m, vector<vector<int>> &grid) {
+        vector<vector<int>> dp(n, vector<int>(m, 0));
+        dp[n - 1][m - 1] = grid[n - 1][m - 1];
+        for (int row = n - 1;row >= 0;row--) {
+            for (int col = m - 1;col >=0; col--) {
+                if (row == n - 1 && col == m - 1) continue;
+                int right = INT_MAX;
+                if (col + 1 < m) right = grid[row][col] + dp[row][col + 1];
+                int down = INT_MAX;
+                if (row + 1 < n) down = grid[row][col] + dp[row + 1][col];
+
+                dp[row][col] = min(right, down);
+            }
+        }
+        return dp[0][0];
+    }
+
+
 public:
     int minPathSum(vector<vector<int>>& grid) {
         int n = grid.size();
@@ -36,6 +56,7 @@ public:
         if (n == 1 && m == 1) return grid[0][0];
         // return RecSol(n, m, 0, 0, grid);
         vector<vector<int>> dp(n, vector<int>(m , -1));
-        return memSol(n, m, 0, 0, grid, dp);
+        // return memSol(n, m, 0, 0, grid, dp);
+        return tab(n, m, grid);
     }
 };
