@@ -83,6 +83,32 @@ private:
         return nextRow[0];
     }
     
+    // Most optimal solution
+    int optimal(int n, int m) {
+        // we only need 2 rows
+        // current row and next row
+        vector<int> nextRow(m, 0);
+        for (int row = n - 1;row >= 0;row--) {
+            int next = 0;
+            for (int col = m - 1;col >= 0;col--) {
+                // Base case
+                if (row == n - 1 && col == m - 1) {
+                    next = 1;
+                    nextRow[col] = next;
+                    continue;
+                }
+                int right = 0;
+                if (col + 1 < m) right = next;
+                int down = 0;
+                if (row + 1 < n) down = nextRow[col];
+
+                next = right + down;
+                nextRow[col] = next;
+            }
+            
+        }
+        return nextRow[0];
+    }
 
 public:
     int uniquePaths(int m, int n) {
@@ -90,6 +116,6 @@ public:
         vector<vector<int>> dp(n, vector<int>(m, -1));
         // return Memsolve(n,m,0,0,dp);
         // return tab(n, m);
-        return opt(n, m);
+        return optimal(n, m);
     }
 };
