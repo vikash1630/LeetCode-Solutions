@@ -17,6 +17,7 @@ Leet Code Solutions
 | [0048-rotate-image](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0056-merge-intervals) |
+| [0063-unique-paths-ii](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
@@ -228,6 +229,7 @@ Leet Code Solutions
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0062-unique-paths](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0062-unique-paths/) | Medium |
+| [0063-unique-paths-ii](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0070-climbing-stairs](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -266,6 +268,7 @@ Leet Code Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
+| [0063-unique-paths-ii](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0200-number-of-islands) |
