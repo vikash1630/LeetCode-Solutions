@@ -64,7 +64,7 @@ private:
             vector<int> curRow(m, 0);
             for (int col = m - 1;col>=0;col--) {
                 if (row == n - 1 && col == m - 1) {
-                    // nextRow[m - 1] = 1;
+                    nextRow[m - 1] = 1;
                     curRow[m - 1] = 1;
                     continue;
                 }
