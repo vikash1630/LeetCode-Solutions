@@ -48,6 +48,29 @@ private:
         return dp[0][0];
     }
 
+    // space optimal
+    int opt(int n, int m, vector<vector<int>> &grid) {
+        
+        vector<int> nextRow(m, 0);
+        for (int row = n - 1;row >= 0;row--) {
+            vector<int> curRow(m, 0);
+            for (int col = m - 1;col >=0; col--) {
+                if (row == n - 1 && col == m - 1) {
+                    nextRow[col] = grid[row][col];
+                    curRow[col] = grid[row][col];
+                    continue;
+                }
+                int right = INT_MAX;
+                if (col + 1 < m) right = grid[row][col] + curRow[col + 1];
+                int down = INT_MAX;
+                if (row + 1 < n) down = grid[row][col] + nextRow[col];
+
+                curRow[col] = min(right, down);
+            }
+            nextRow = curRow;
+        }
+        return nextRow[0];
+    }
 
 public:
     int minPathSum(vector<vector<int>>& grid) {
@@ -57,6 +80,7 @@ public:
         // return RecSol(n, m, 0, 0, grid);
         vector<vector<int>> dp(n, vector<int>(m , -1));
         // return memSol(n, m, 0, 0, grid, dp);
-        return tab(n, m, grid);
+        // return tab(n, m, grid);
+        return opt(n, m, grid);
     }
 };
