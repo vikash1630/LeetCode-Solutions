@@ -64,7 +64,7 @@ private:
 
                 arr[j] = min(down, diag);
             }
-            // dp.resize(i + 1, -1);
+            dp.resize(i + 1, -1);
             dp = arr;
         }
         return dp[0];
