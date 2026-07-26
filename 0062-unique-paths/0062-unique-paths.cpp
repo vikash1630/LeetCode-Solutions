@@ -57,6 +57,31 @@ private:
         }
         return dp[0][0];
     }
+
+    // space optimization
+    int opt(int n, int m) {
+        // we only need 2 rows
+        // current row and next row
+        vector<int> nextRow(m, 0);
+        for (int row = n - 1;row >= 0;row--) {
+            vector<int> curRow(m, -1);
+            for (int col = m - 1;col >= 0;col--) {
+                // Base case
+                if (row == n - 1 && col == m - 1) {
+                    curRow[col] = 1;
+                    continue;
+                }
+                int right = 0;
+                if (col + 1 < m) right = curRow[col + 1];
+                int down = 0;
+                if (row + 1 < n) down = nextRow[col];
+
+                curRow[col] = right + down;
+            }
+            nextRow = curRow;
+        }
+        return nextRow[0];
+    }
     
 
 public:
@@ -64,6 +89,7 @@ public:
         // return Recsolve(n, m, 0, 0);
         vector<vector<int>> dp(n, vector<int>(m, -1));
         // return Memsolve(n,m,0,0,dp);
-        return tab(n, m);
+        // return tab(n, m);
+        return opt(n, m);
     }
 };
