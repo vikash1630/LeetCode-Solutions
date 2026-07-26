@@ -51,6 +51,25 @@ private:
     return dp[0][0];
 }
 
+    // Space Optimal
+    int opt(int n, vector<vector<int>>& tri) {
+        vector<int> dp(n, -1);
+        for (int i = 0;i<n;i++) dp[i] = tri[n - 1][i];
+
+        for (int i = n - 2;i>=0;i--) {
+            vector<int> arr(i + 1, -1);
+            for (int j = 0;j<tri[i].size();j++) {
+                int down = tri[i][j] + dp[j];
+                int diag = tri[i][j] + dp[j + 1];
+
+                arr[j] = min(down, diag);
+            }
+            // dp.resize(i + 1, -1);
+            dp = arr;
+        }
+        return dp[0];
+    }
+
 public:
     int minimumTotal(vector<vector<int>>& triangle) {
         int n = triangle.size();
@@ -59,6 +78,7 @@ public:
         vector<vector<int>> dp(n);
         for (int i = 0; i < n; i++) dp[i].resize(i + 1, -1);
         // return Mem(n, triangle, 0, 0,dp);
-        return Tab(n, triangle, dp);
+        // return Tab(n, triangle, dp);
+        return opt(n, triangle);
     }
 };
