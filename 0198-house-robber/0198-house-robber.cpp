@@ -34,7 +34,20 @@ private:
     }
 
     return dp[0];
-}
+    }
+
+    int sp(vector<int> &nums, int n) {
+        int prev1 = 0;
+        int prev2 = 0;
+        for (int i = n - 1;i>=0;i--) {
+            int take = nums[i] + prev2;
+            int dontTake = prev1;
+            int cur = max(take, dontTake);
+            prev2 = prev1;
+            prev1 = cur;
+        }
+        return prev1;
+    }
 
 public:
     int rob(vector<int>& nums) {
@@ -42,6 +55,7 @@ public:
         // return rec(nums, n, 0);
         vector<int> dp(n, -1);
         // return mem(nums, dp, n, 0);
-        return tab(nums, n);
+        // return tab(nums, n);
+        return sp(nums, n);
     }
 };
