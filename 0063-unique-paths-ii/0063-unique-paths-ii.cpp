@@ -84,6 +84,35 @@ private:
         return nextRow[0];
     }
 
+    // ultimate space optimized
+    int optimal(int n, int m, vector<vector<int>> &grid) {
+        vector<int> nextRow(m, 0);
+        
+        for (int row = n - 1;row >=0;row--) {
+            int rightVal = 0;
+            for (int col = m - 1;col>=0;col--) {
+                if (row == n - 1 && col == m - 1) {
+                    nextRow[m - 1] = 1;
+                    rightVal = 1;
+                    continue;
+                }
+                if (grid[row][col] == 1) {
+                    rightVal = 0;
+                    nextRow[col] = 0;
+                    continue;
+                }
+                long long right = 0;
+                if (col + 1 < m) right = rightVal;
+                long long down = 0;
+                if (row + 1 < n) down = nextRow[col];
+
+                rightVal = right + down;
+                nextRow[col] = rightVal;
+            }
+        }
+        return nextRow[0];
+    }
+
 public:
     int uniquePathsWithObstacles(vector<vector<int>>& obstacleGrid) {
         int n = obstacleGrid.size();
@@ -93,6 +122,7 @@ public:
         vector<vector<int>> dp(n, vector<int>(m, -1));
         // return mem(n, m, obstacleGrid, 0, 0, dp);
         // return tab(n, m, obstacleGrid);
-        return opt(n, m, obstacleGrid);
+        // return opt(n, m, obstacleGrid);
+        return optimal(n, m, obstacleGrid);
     }
 };
