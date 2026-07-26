@@ -34,6 +34,28 @@ private:
         return dp[r][c] = right + down;
     }
 
+    // Tabulation
+    int tab(int n, int m, vector<vector<int>> &grid) {
+        vector<vector<int>> dp(n, vector<int>(m, 0));
+        dp[n - 1][m - 1] = 1;
+        for (int row = n - 1;row >=0;row--) {
+            for (int col = m - 1;col>=0;col--) {
+                if (row == n - 1 && col == m - 1) continue;
+                if (grid[row][col] == 1) {
+                    dp[row][col] = 0;
+                    continue;
+                }
+                long long right = 0;
+                if (col + 1 < m) right = dp[row][col + 1];
+                long long down = 0;
+                if (row + 1 < n) down = dp[row + 1][col];
+
+                dp[row][col] = right + down;
+            }
+        }
+        return dp[0][0];
+    }
+
 public:
     int uniquePathsWithObstacles(vector<vector<int>>& obstacleGrid) {
         int n = obstacleGrid.size();
@@ -41,6 +63,7 @@ public:
         if (obstacleGrid[0][0] == 1 || obstacleGrid[n - 1][m - 1] == 1) return 0;
         // return recSolve(n , m, obstacleGrid, 0, 0);
         vector<vector<int>> dp(n, vector<int>(m, -1));
-        return mem(n, m, obstacleGrid, 0, 0, dp);
+        // return mem(n, m, obstacleGrid, 0, 0, dp);
+        return tab(n, m, obstacleGrid);
     }
 };
