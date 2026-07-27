@@ -61,6 +61,7 @@ Leet Code Solutions
 | [1248-count-number-of-nice-subarrays](https://github.com/vikash1630/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/vikash1630/LeetCode-Solutions/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vikash1630/LeetCode-Solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vikash1630/LeetCode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/vikash1630/LeetCode-Solutions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/vikash1630/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1631-path-with-minimum-effort](https://github.com/vikash1630/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
@@ -212,6 +213,7 @@ Leet Code Solutions
 | [0242-valid-anagram](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0721-accounts-merge](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0721-accounts-merge) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vikash1630/LeetCode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/vikash1630/LeetCode-Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vikash1630/LeetCode-Solutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2126-destroying-asteroids](https://github.com/vikash1630/LeetCode-Solutions/tree/master/2126-destroying-asteroids) |
@@ -343,6 +345,7 @@ Leet Code Solutions
 | [0451-sort-characters-by-frequency](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0743-network-delay-time](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vikash1630/LeetCode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/vikash1630/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vikash1630/LeetCode-Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/vikash1630/LeetCode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
