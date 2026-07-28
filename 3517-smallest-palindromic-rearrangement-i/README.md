@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/smallest-palindromic-rearrangement-i">3517. Smallest Palindromic Rearrangement I</a></h2><h3>Medium</h3><hr><p>You are given a <strong><span data-keyword="palindrome-string">palindromic</span></strong> string <code>s</code>.</p>
+<h2><a href="https://leetcode.com/problems/smallest-palindromic-rearrangement-i">3812. Smallest Palindromic Rearrangement I</a></h2><h3>Medium</h3><hr><p>You are given a <strong><span data-keyword="palindrome-string">palindromic</span></strong> string <code>s</code>.</p>
 
 <p>Return the <strong><span data-keyword="lexicographically-smaller-string">lexicographically smallest</span></strong> palindromic <span data-keyword="permutation-string">permutation</span> of <code>s</code>.</p>
 
