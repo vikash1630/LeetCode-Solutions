@@ -32,6 +32,26 @@ private:
         return dp[ind][target] = take || dontTake;
     }
 
+    bool Tab(vector<int> &nums, int n, int target) {
+        vector<vector<int>> dp(n, vector<int>(target + 1, 0));
+        for (int i = 0;i<n;i++) dp[i][0] = 1;
+        if (nums[0] <= target) dp[0][nums[0]] = 1;
+
+        for (int i = 1;i<n;i++) {
+            for (int j = 0;j<=target;j++) {
+                // dont take
+                bool dontTake = dp[i - 1][j];
+                // Take
+                bool take = 0;
+                if (j >= nums[i]) take = dp[i - 1][j - nums[i]];
+
+                dp[i][j] = take || dontTake;
+            }
+        }
+        
+        return dp[n - 1][target];
+    }
+
 public:
     bool canPartition(vector<int>& nums) {
         int n = nums.size();
@@ -42,8 +62,9 @@ public:
         int sum = 0;
         if (target % 2 != 0) return false;
         target = target/2;
-        vector<vector<int>> dp(n, vector<int>(target + 1, -1)); 
-        return Mem(nums, dp, n - 1, target);
+        // vector<vector<int>> dp(n, vector<int>(target + 1, -1)); 
+        // return Mem(nums, dp, n - 1, target);
         // return Rec(nums, n, target, sum, 0);
+        return Tab(nums, n, target);
     }
 };
