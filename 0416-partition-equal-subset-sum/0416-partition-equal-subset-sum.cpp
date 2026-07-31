@@ -52,6 +52,29 @@ private:
         return dp[n - 1][target];
     }
 
+    bool opt(vector<int> &nums, int n, int target) {
+        vector<int> dp(target + 1, 0);
+        if (nums[0] <= target) dp[nums[0]] = 1;
+        for (int i = 1;i<n;i++) {
+            dp[0] = 1;
+            vector<int> dum(target + 1, 0);
+            for (int j = 0;j<=target;j++) {
+                // dont take
+                bool dontTake = dp[j];
+                // Take
+                bool take = 0;
+                if (j >= nums[i]) take = dp[j - nums[i]];
+
+                dum[j] = take || dontTake;
+            }
+            dp = dum;
+        }
+        
+        return dp[target];
+    }
+
+
+
 public:
     bool canPartition(vector<int>& nums) {
         int n = nums.size();
@@ -65,6 +88,7 @@ public:
         // vector<vector<int>> dp(n, vector<int>(target + 1, -1)); 
         // return Mem(nums, dp, n - 1, target);
         // return Rec(nums, n, target, sum, 0);
-        return Tab(nums, n, target);
+        // return Tab(nums, n, target);
+        return opt(nums, n, target);
     }
 };
