@@ -43,6 +43,7 @@ Leet Code Solutions
 | [0283-move-zeroes](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0416-partition-equal-subset-sum](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0455-assign-cookies](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -195,6 +196,7 @@ Leet Code Solutions
 | [0189-rotate-array](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/vikash1630/LeetCode-Solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
@@ -221,6 +223,7 @@ Leet Code Solutions
 | [0229-majority-element-ii](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0455-assign-cookies](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0721-accounts-merge](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vikash1630/LeetCode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/vikash1630/LeetCode-Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -340,6 +343,7 @@ Leet Code Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0455-assign-cookies](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0455-assign-cookies/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/vikash1630/LeetCode-Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vikash1630/LeetCode-Solutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/vikash1630/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
