@@ -54,6 +54,7 @@ Leet Code Solutions
 | [0733-flood-fill](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0733-flood-fill/) | Easy |
 | [0827-making-a-large-island](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0827-making-a-large-island) |
 | [0875-koko-eating-bananas](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
+| [0877-stone-game](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
@@ -140,6 +141,7 @@ Leet Code Solutions
 | [0070-climbing-stairs](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0486-predict-the-winner](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
+| [0877-stone-game](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/vikash1630/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/vikash1630/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vikash1630/LeetCode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -260,6 +262,7 @@ Leet Code Solutions
 | [0486-predict-the-winner](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0542-01-matrix](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [0877-stone-game](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/vikash1630/LeetCode-Solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1463-cherry-pickup-ii](https://github.com/vikash1630/LeetCode-Solutions/tree/master/1463-cherry-pickup-ii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/vikash1630/LeetCode-Solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -623,4 +626,5 @@ Leet Code Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
+| [0877-stone-game](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
