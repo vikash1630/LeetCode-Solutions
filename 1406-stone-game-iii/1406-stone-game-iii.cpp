@@ -36,6 +36,8 @@ private:
         }
         return dp[0];
     }
+
+    
 public:
     string stoneGameIII(vector<int>& stoneValue) {
         int n = stoneValue.size();
@@ -43,6 +45,7 @@ public:
         vector<int> dp(n, INT_MIN);
         // int score = Mem(stoneValue, n, 0, dp);
         int score = Tab(stoneValue, n);
+        
         if (score > 0) return "Alice";
         else if (score < 0) return "Bob";
         return "Tie";
