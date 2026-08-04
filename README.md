@@ -42,6 +42,7 @@ Leet Code Solutions
 | [0217-contains-duplicate](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0416-partition-equal-subset-sum](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
@@ -130,6 +131,7 @@ Leet Code Solutions
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
@@ -568,6 +570,7 @@ Leet Code Solutions
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
+| [0303-range-sum-query-immutable](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 ## Iterator
 |  |
 | ------- |
