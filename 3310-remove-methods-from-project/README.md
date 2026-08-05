@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/remove-methods-from-project">3561. Remove Methods From Project</a></h2><h3>Medium</h3><hr><p>You are maintaining a project that has <code>n</code> methods numbered from <code>0</code> to <code>n - 1</code>.</p>
+<h2><a href="https://leetcode.com/problems/remove-methods-from-project">3310. Remove Methods From Project</a></h2><h3>Medium</h3><hr><p>You are maintaining a project that has <code>n</code> methods numbered from <code>0</code> to <code>n - 1</code>.</p>
 
 <p>You are given two integers <code>n</code> and <code>k</code>, and a 2D integer array <code>invocations</code>, where <code>invocations[i] = [a<sub>i</sub>, b<sub>i</sub>]</code> indicates that method <code>a<sub>i</sub></code> invokes method <code>b<sub>i</sub></code>.</p>
 
