@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/delete-operation-for-two-strings/">583. Delete Operation for Two Strings</a></h2><h3>Medium</h3><hr><p>Given two strings <code>word1</code> and <code>word2</code>, return <em>the minimum number of <strong>steps</strong> required to make</em> <code>word1</code> <em>and</em> <code>word2</code> <em>the same</em>.</p>
+<h2><a href="https://leetcode.com/problems/delete-operation-for-two-strings">583. Delete Operation for Two Strings</a></h2><h3>Medium</h3><hr><p>Given two strings <code>word1</code> and <code>word2</code>, return <em>the minimum number of <strong>steps</strong> required to make</em> <code>word1</code> <em>and</em> <code>word2</code> <em>the same</em>.</p>
 
 <p>In one <strong>step</strong>, you can delete exactly one character in either string.</p>
 
