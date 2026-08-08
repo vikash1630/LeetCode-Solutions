@@ -30,7 +30,7 @@ private:
         vector<int> dp(m + 1, 0);
         for (int i = 1;i<=n;i++) {
             vector<int> dum(m + 1, 0);
-            for (int j = 1;j<=n;j++) {
+            for (int j = 1;j<=m;j++) {
                 if (s1[i - 1] == s2[j - 1]) {
                     dum[j] = 1 + dp[j - 1];
                 }
@@ -52,7 +52,8 @@ public:
 
         vector<vector<int>> dp(n + 1, vector<int>(m + 1, -1));
         // common = 2 * Mem(word1, word2, n - 1, m - 1, dp);
-        common = 2 * Tab(word1, word2, n, m);
+        // common = 2 * Tab(word1, word2, n, m);
+        common = 2 * opt(word1, word2, n, m);
         
 
         
