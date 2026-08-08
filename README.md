@@ -182,6 +182,7 @@ Leet Code Solutions
 | [0721-accounts-merge](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [0796-rotate-string](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/vikash1630/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1092-shortest-common-supersequence](https://github.com/vikash1630/LeetCode-Solutions/tree/master/1092-shortest-common-supersequence) |
 | [1189-maximum-number-of-balloons](https://github.com/vikash1630/LeetCode-Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/vikash1630/LeetCode-Solutions/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vikash1630/LeetCode-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -280,6 +281,7 @@ Leet Code Solutions
 | [0583-delete-operation-for-two-strings](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0877-stone-game](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0877-stone-game/) | Medium |
+| [1092-shortest-common-supersequence](https://github.com/vikash1630/LeetCode-Solutions/tree/master/1092-shortest-common-supersequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/vikash1630/LeetCode-Solutions/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/vikash1630/LeetCode-Solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1406-stone-game-iii](https://github.com/vikash1630/LeetCode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
@@ -666,4 +668,5 @@ Leet Code Solutions
 |  |
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0583-delete-operation-for-two-strings/) | Medium |
+| [1092-shortest-common-supersequence](https://github.com/vikash1630/LeetCode-Solutions/tree/master/1092-shortest-common-supersequence) |
 <!---LeetCode Topics End-->
