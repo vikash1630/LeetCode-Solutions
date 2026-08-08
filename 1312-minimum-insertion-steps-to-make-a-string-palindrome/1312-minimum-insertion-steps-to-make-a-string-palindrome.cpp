@@ -26,6 +26,22 @@ private:
         }
         return dp[n][n];
     }
+    int opt(string s1, string s2, int n) {
+        vector<int> dp(n + 1, 0);
+        for (int i = 1;i<=n;i++) {
+            vector<int> dum(n + 1, 0);
+            for (int j = 1;j<=n;j++) {
+                if (s1[i - 1] == s2[j - 1]) {
+                    dum[j] = 1 + dp[j - 1];
+                }
+                else {
+                    dum[j] = max(dp[j], dum[j - 1]);
+                }
+            }
+            dp = dum;
+        }
+        return dp[n];
+    }
 public:
     int minInsertions(string s) {
         string p = s;
@@ -34,6 +50,7 @@ public:
         // return n - Rec(s, p, n - 1, n - 1);
         // vector<vector<int>> dp(n, vector<int>(n, -1));
         // return n - Mem(s, p, n - 1, n - 1, dp);
-        return n - Tab(s, p, n);
+        // return n - Tab(s, p, n);
+        return n - opt(s, p, n);
     }
 };
