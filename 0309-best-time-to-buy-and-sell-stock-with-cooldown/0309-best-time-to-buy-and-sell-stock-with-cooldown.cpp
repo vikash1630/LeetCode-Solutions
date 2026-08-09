@@ -58,7 +58,30 @@ class Solution {
         return dp[0][0];
     }
 
-    
+    int opt(vector<int>& prices, int n) {
+        vector<int> dp1(n + 1, 0);
+        vector<int> dp2(n + 1, 0);
+        for (int ind = n - 1; ind >= 0; ind--) {
+            vector<int> dum(n + 1, 0);
+            for (int buy = 0; buy < n; buy++) {
+                // Buy
+                if (buy % 2 == 0) {
+                    int take = -prices[ind] + dp1[buy + 1];
+                    int donttake = dp1[buy];
+                    dum[buy] = max(take, donttake);
+                }
+                // Sell
+                else {
+                    int sell = prices[ind] + dp2[buy + 1];
+                    int dontsell = dp1[buy];
+                    dum[buy] = max(sell, dontsell);
+                }
+            }
+            dp2 = dp1;
+            dp1 = dum;
+        }
+        return dp1[0];
+    }
 
 public:
     int maxProfit(vector<int>& prices) {
@@ -66,6 +89,7 @@ public:
         // return Rec(prices, 0, n, 0);
         // vector<vector<int>> dp(n + 1, vector<int>(n, -1));
         // return Mem(prices, 0, n, 0, dp);
-        return Tab(prices, n);
+        // return Tab(prices, n);
+        return opt(prices, n);
     }
 };
