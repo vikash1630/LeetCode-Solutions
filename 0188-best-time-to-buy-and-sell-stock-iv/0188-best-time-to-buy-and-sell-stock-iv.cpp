@@ -68,12 +68,36 @@ private:
         return dp[0][0];
     }
 
+    int opt(vector<int>& prices, int n, int k) {
+        vector<int> dp(2 * k + 1, 0);
+        for (int ind = n - 1; ind >= 0; ind--) {
+            vector<int> dum(2 * k + 1, 0);
+            for (int buy = 0; buy < 2 * k; buy++) {
+                // Buy
+                if (buy % 2 == 0) {
+                    int take = -prices[ind] + dp[buy + 1];
+                    int dontTake = dp[buy];
+                    dum[buy] = max(take, dontTake);
+                }
+                // Sell
+                else {
+                    int sell = prices[ind] + dp[buy + 1];
+                    int dontsell = dp[buy];
+                    dum[buy] = max(sell, dontsell);
+                }
+            }
+            dp = dum;
+        }
+        return dp[0];
+    }
+
 public:
     int maxProfit(int k, vector<int>& prices) {
         int n = prices.size();
         vector<vector<int>> dp(n, vector<int>(2 * k, -1));
         // return Rec(prices, n, 0, 0, 2 * k);
         // return Mem(prices, n, 0, 0, 2 * k, dp);
-        return Tab(prices, n, k);
+        // return Tab(prices, n, k);
+        return opt(prices, n, k);
     }
 };
