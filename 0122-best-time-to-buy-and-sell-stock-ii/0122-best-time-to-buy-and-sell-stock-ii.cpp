@@ -48,12 +48,36 @@ private:
         }
         return dp[0][0];
     }
+
+    int opt(vector<int>& prices, int n) {
+        vector<int> dp(2, 0);
+        
+        for (int i = n - 1;i>=0;i--) {
+            long profit = 0;
+            vector<int> dum(2, 0);
+            for (int buy = 0;buy<=1;buy++) {
+                // We Can buy
+                if (buy == 0) {
+                    profit = max(0 + dp[buy], -prices[i] + dp[buy + 1]);
+                }
+                // We can sell
+                else {
+                    profit = max(0 + dp[buy], prices[i] + dp[buy - 1]);
+                }
+                dum[buy] = profit;
+            }
+            dp = dum;
+        }
+        return dp[0];
+    }
+
 public:
     int maxProfit(vector<int>& prices) {
         int n = prices.size();
         // return Rec(prices, 0, n, 0);
-        vector<vector<long>> dp(n + 1, vector<long>(2, -1));
+        // vector<vector<long>> dp(n + 1, vector<long>(2, -1));
         // return Mem(prices, 0, n, 0, dp);
-        return Tab(prices, 0, n, 0, dp);
+        // return Tab(prices, 0, n, 0, dp);
+        return opt(prices, n);
     }
 };
