@@ -45,7 +45,7 @@ class Solution {
                 if (buy % 2 == 0) {
                     int take = -prices[ind] + dp[ind + 1][buy + 1];
                     int donttake = dp[ind + 1][buy];
-                    return dp[ind][buy] = max(take, donttake);
+                    dp[ind][buy] = max(take, donttake);
                 }
                 // Sell
                 else {
@@ -58,11 +58,14 @@ class Solution {
         return dp[0][0];
     }
 
+    
+
 public:
     int maxProfit(vector<int>& prices) {
         int n = prices.size();
         // return Rec(prices, 0, n, 0);
-        vector<vector<int>> dp(n + 1, vector<int>(n, -1));
-        return Mem(prices, 0, n, 0, dp);
+        // vector<vector<int>> dp(n + 1, vector<int>(n, -1));
+        // return Mem(prices, 0, n, 0, dp);
+        return Tab(prices, n);
     }
 };
