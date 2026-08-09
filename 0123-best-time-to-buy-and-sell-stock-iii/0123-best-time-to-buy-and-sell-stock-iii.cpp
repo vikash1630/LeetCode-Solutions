@@ -84,7 +84,7 @@ private:
                 // second Buy
                 else if (buy == 2) {
                     int take = dp[ind + 1][buy + 1] - prices[ind];
-                    int dontTake = Mem(prices, n, ind + 1, buy, dp);
+                    int dontTake = dp[ind + 1][buy];
                     dp[ind][buy] = max(take, dontTake);
                 }
                 // Second Sell
@@ -98,12 +98,47 @@ private:
         return dp[0][0];
     }
 
+    int opt(vector<int>& prices, int n) {
+        vector<int> dp(5, 0);
+
+        for (int ind = n - 1; ind >= 0; ind--) {
+            vector<int> dum(5, 0);
+            for (int buy = 0; buy < 4; buy++) {
+                if (buy == 0) {
+                    int take = dp[buy + 1] - prices[ind];
+                    int dontTake = dp[buy];
+                    dum[buy] = max(take, dontTake);
+                }
+                // First Sell
+                else if (buy == 1) {
+                    int sell = prices[ind] + dp[buy + 1];
+                    int dontsell = dp[buy];
+                    dum[buy] = max(sell, dontsell);
+                }
+                // second Buy
+                else if (buy == 2) {
+                    int take = dp[buy + 1] - prices[ind];
+                    int dontTake = dp[buy];
+                    dum[buy] = max(take, dontTake);
+                }
+                // Second Sell
+                else {
+                    int sell = prices[ind] + dp[buy + 1];
+                    int dontsell = dp[buy];
+                    dum[buy] = max(sell, dontsell);
+                }
+            }
+            dp = dum;
+        }
+        return dp[0];
+    }
 public:
     int maxProfit(vector<int>& prices) {
         int n = prices.size();
         // vector<vector<int>> dp(n, vector<int>(4, -1));
         // return Rec(prices, n, 0, 0);
         // return Mem(prices, n, 0, 0, dp);
-        return Tab(prices, n);
+        // return Tab(prices, n);
+        return opt(prices, n);
     }
 };
