@@ -53,6 +53,28 @@ private:
         return dp[n][m];
     }
 
+    int opt(string s1, string s2, int n, int m) {
+        vector<int> dp(m + 1, 0);
+        for (int j = 0; j <= m; j++)
+            dp[j] = j;
+        for (int i = 1; i <= n; i++) {
+            vector<int> dum(m + 1, 0);
+            dum[0] = i;
+            for (int j = 1; j <= m; j++) {
+                if (s1[i - 1] == s2[j - 1])
+                    dum[j] = 0 + dp[j - 1];
+                else {
+                    int insert = 1 + dum[j - 1];
+                    int del = 1 + dp[j];
+                    int rep = 1 + dp[j - 1];
+                    dum[j] = min(insert, min(del, rep));
+                }
+            }
+            dp = dum;
+        }
+        return dp[m];
+    }
+
 public:
     int minDistance(string word1, string word2) {
         int n = word1.size();
@@ -62,6 +84,7 @@ public:
         // vector<vector<int>> dp(n, vector<int>(m, -1));
 
         // return Mem(word1, word2, n - 1, m - 1, dp);
-        return Tab(word1, word2, n, m);
+        // return Tab(word1, word2, n, m);
+        return opt(word1, word2, n, m);
     }
 };
