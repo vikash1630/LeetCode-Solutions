@@ -74,6 +74,7 @@ Leet Code Solutions
 | [1043-partition-array-for-maximum-sum](https://github.com/vikash1630/LeetCode-Solutions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/vikash1630/LeetCode-Solutions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/vikash1630/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/vikash1630/LeetCode-Solutions/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/vikash1630/LeetCode-Solutions/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1406-stone-game-iii](https://github.com/vikash1630/LeetCode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vikash1630/LeetCode-Solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
@@ -313,6 +314,7 @@ Leet Code Solutions
 | [0877-stone-game](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [1043-partition-array-for-maximum-sum](https://github.com/vikash1630/LeetCode-Solutions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1092-shortest-common-supersequence](https://github.com/vikash1630/LeetCode-Solutions/tree/master/1092-shortest-common-supersequence) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/vikash1630/LeetCode-Solutions/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/vikash1630/LeetCode-Solutions/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/vikash1630/LeetCode-Solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1406-stone-game-iii](https://github.com/vikash1630/LeetCode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
@@ -357,6 +359,7 @@ Leet Code Solutions
 | [0994-rotting-oranges](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/vikash1630/LeetCode-Solutions/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/vikash1630/LeetCode-Solutions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/vikash1630/LeetCode-Solutions/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/vikash1630/LeetCode-Solutions/tree/master/1463-cherry-pickup-ii) |
 | [1631-path-with-minimum-effort](https://github.com/vikash1630/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vikash1630/LeetCode-Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
