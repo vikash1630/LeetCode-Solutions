@@ -93,6 +93,7 @@ Leet Code Solutions
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/vikash1630/LeetCode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/vikash1630/LeetCode-Solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3620-network-recovery-pathways](https://github.com/vikash1630/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/vikash1630/LeetCode-Solutions/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vikash1630/LeetCode-Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/vikash1630/LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
@@ -235,6 +236,7 @@ Leet Code Solutions
 | ------- | ------- |
 | [0136-single-number](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/vikash1630/LeetCode-Solutions/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
