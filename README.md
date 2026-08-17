@@ -160,6 +160,7 @@ Leet Code Solutions
 | [0002-add-two-numbers](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0048-rotate-image](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
+| [0050-powx-n](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0189-rotate-array) |
@@ -465,6 +466,7 @@ Leet Code Solutions
 | ------- |
 | [0002-add-two-numbers](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0050-powx-n](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
