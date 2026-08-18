@@ -1,58 +1,48 @@
 class Solution {
 private:
-    int Rec(vector<int>& nums, int i, int prev,
-            vector<vector<int>>& dp) {
+    vector<int> Rec(int ind, int prevInd, vector<int>& nums,
+                    int n, vector<vector<vector<int>>>& dp) {
 
-        if (i == nums.size())
-            return 0;
+        if (ind == n)
+            return {};
 
-        if (dp[i][prev + 1] != -1)
-            return dp[i][prev + 1];
+        // Already calculated
+        if (!dp[ind][prevInd + 1].empty())
+            return dp[ind][prevInd + 1];
 
-        // Not take
-        int notTake = Rec(nums, i + 1, prev, dp);
+        // Don't take
+        vector<int> notTake = Rec(ind + 1, prevInd, nums, n, dp);
 
         // Take
-        int take = 0;
+        vector<int> take;
 
-        if (prev == -1 || nums[i] % nums[prev] == 0)
-            take = 1 + Rec(nums, i + 1, i, dp);
+        if (prevInd == -1 || nums[ind] % nums[prevInd] == 0) {
+            take = Rec(ind + 1, ind, nums, n, dp);
 
-        return dp[i][prev + 1] = max(take, notTake);
+            // Add current element
+            take.insert(take.begin(), nums[ind]);
+        }
+
+        // Store the better answer
+        if (take.size() > notTake.size())
+            return dp[ind][prevInd + 1] = take;
+
+        return dp[ind][prevInd + 1] = notTake;
     }
 
 public:
     vector<int> largestDivisibleSubset(vector<int>& nums) {
 
-        sort(nums.begin(), nums.end());
-
         int n = nums.size();
 
-        vector<vector<int>> dp(n, vector<int>(n + 1, -1));
+        sort(nums.begin(), nums.end());
 
-        Rec(nums, 0, -1, dp);
+        // dp[ind][prevInd + 1]
+        vector<vector<vector<int>>> dp(
+            n,
+            vector<vector<int>>(n + 1)
+        );
 
-        // Reconstruct answer
-        vector<int> ans;
-        int i = 0, prev = -1;
-
-        while (i < n) {
-
-            int notTake = Rec(nums, i + 1, prev, dp);
-
-            int take = -1;
-
-            if (prev == -1 || nums[i] % nums[prev] == 0)
-                take = 1 + Rec(nums, i + 1, i, dp);
-
-            if (take >= notTake) {
-                ans.push_back(nums[i]);
-                prev = i;
-            }
-
-            i++;
-        }
-
-        return ans;
+        return Rec(0, -1, nums, n, dp);
     }
 };
