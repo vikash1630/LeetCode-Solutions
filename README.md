@@ -212,6 +212,7 @@ Leet Code Solutions
 | [1903-largest-odd-number-in-string](https://github.com/vikash1630/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vikash1630/LeetCode-Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/vikash1630/LeetCode-Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/vikash1630/LeetCode-Solutions/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/vikash1630/LeetCode-Solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/vikash1630/LeetCode-Solutions/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/vikash1630/LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
@@ -246,6 +247,7 @@ Leet Code Solutions
 | ------- | ------- |
 | [0136-single-number](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/vikash1630/LeetCode-Solutions/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/vikash1630/LeetCode-Solutions/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -732,4 +734,8 @@ Leet Code Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/vikash1630/LeetCode-Solutions/tree/master/1130-minimum-cost-tree-from-leaf-values) |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/vikash1630/LeetCode-Solutions/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 <!---LeetCode Topics End-->
