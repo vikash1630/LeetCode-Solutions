@@ -17,10 +17,12 @@ public:
             arr.push_back(temp->val);
             temp = temp->next;
         }
-        sort(arr.begin(),arr.end());
         temp = head;
-        for (int i = 0;i<arr.size();i++) {
+        sort(arr.begin(), arr.end());
+        int i = 0;
+        while (temp != NULL) {
             temp->val = arr[i];
+            i++;
             temp = temp->next;
         }
         return head;
