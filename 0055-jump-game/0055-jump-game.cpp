@@ -1,16 +1,19 @@
 class Solution {
+private:
+    bool solve(vector<int> &nums, int ind, int n, vector<int> &dp) {
+        if (ind >= n - 1) return true;
+        if (nums[ind] == 0) return false;
+        if (dp[ind] != -1) return dp[ind];
+        for (int i = (ind + nums[ind]) ;i>ind;i--) {
+            bool flag = solve(nums, i, n, dp);
+            if (flag == true) return dp[ind] = true;
+        }
+        return dp[ind] = false;
+    }
 public:
     bool canJump(vector<int>& nums) {
-        int maxReach = 0;
-        
-        for (int i = 0; i < nums.size(); i++) {
-            if (i > maxReach) return false;  // can't reach this index
-            
-            maxReach = max(maxReach, i + nums[i]);
-            
-            if (maxReach >= nums.size() - 1) return true; // reached end
-        }
-        
-        return true;
+        int n = nums.size();
+        vector<int> dp(n + 1, -1);
+        return solve(nums, 0, n, dp);
     }
 };
