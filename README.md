@@ -204,6 +204,7 @@ Leet Code Solutions
 | [0132-palindrome-partitioning-ii](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [0151-reverse-words-in-a-string](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0402-remove-k-digits](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
@@ -417,6 +418,7 @@ Leet Code Solutions
 | [0145-binary-tree-postorder-traversal](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0173-binary-search-tree-iterator](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/vikash1630/LeetCode-Solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/vikash1630/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/vikash1630/LeetCode-Solutions/tree/master/1130-minimum-cost-tree-from-leaf-values) |
@@ -427,6 +429,7 @@ Leet Code Solutions
 | ------- |
 | [0055-jump-game](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0402-remove-k-digits](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0455-assign-cookies](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0455-assign-cookies/) | Easy |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/vikash1630/LeetCode-Solutions/tree/master/1130-minimum-cost-tree-from-leaf-values) |
@@ -641,6 +644,7 @@ Leet Code Solutions
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0085-maximal-rectangle/) | Hard |
+| [0402-remove-k-digits](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/vikash1630/LeetCode-Solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/vikash1630/LeetCode-Solutions/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 ## Design
