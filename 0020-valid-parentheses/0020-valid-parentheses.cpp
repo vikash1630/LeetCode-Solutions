@@ -22,8 +22,6 @@ public:
             }
             i++;
         }
-        if (st.size() == 0)
-            return true;
-        return false;
+        return st.empty();
     }
 };
