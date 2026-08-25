@@ -106,6 +106,7 @@ Leet Code Solutions
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/vikash1630/LeetCode-Solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3620-network-recovery-pathways](https://github.com/vikash1630/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/vikash1630/LeetCode-Solutions/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
+| [3718-smallest-missing-multiple-of-k](https://github.com/vikash1630/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vikash1630/LeetCode-Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/vikash1630/LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
@@ -141,6 +142,7 @@ Leet Code Solutions
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vikash1630/LeetCode-Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/vikash1630/LeetCode-Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/vikash1630/LeetCode-Solutions/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
+| [3718-smallest-missing-multiple-of-k](https://github.com/vikash1630/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vikash1630/LeetCode-Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Sliding Window
 |  |
