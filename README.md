@@ -3,8 +3,8 @@ Leet Code Solutions
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0001-two-sum](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
@@ -109,9 +109,10 @@ Leet Code Solutions
 | [3718-smallest-missing-multiple-of-k](https://github.com/vikash1630/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vikash1630/LeetCode-Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/vikash1630/LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
+| [3875-construct-uniform-parity-array-i](https://github.com/vikash1630/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0001-two-sum](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0041-first-missing-positive](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
@@ -145,8 +146,8 @@ Leet Code Solutions
 | [3718-smallest-missing-multiple-of-k](https://github.com/vikash1630/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vikash1630/LeetCode-Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Sliding Window
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0930-binary-subarrays-with-sum](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
@@ -156,8 +157,8 @@ Leet Code Solutions
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/vikash1630/LeetCode-Solutions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vikash1630/LeetCode-Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Prefix Sum
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0303-range-sum-query-immutable](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -166,8 +167,8 @@ Leet Code Solutions
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vikash1630/LeetCode-Solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vikash1630/LeetCode-Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0002-add-two-numbers](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0048-rotate-image](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
@@ -186,9 +187,10 @@ Leet Code Solutions
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/vikash1630/LeetCode-Solutions/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/vikash1630/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/vikash1630/LeetCode-Solutions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/vikash1630/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Counting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0169-majority-element](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
@@ -198,8 +200,8 @@ Leet Code Solutions
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/vikash1630/LeetCode-Solutions/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vikash1630/LeetCode-Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## String
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0008-string-to-integer-atoi](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0014-longest-common-prefix](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
@@ -232,8 +234,8 @@ Leet Code Solutions
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/vikash1630/LeetCode-Solutions/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/vikash1630/LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
 ## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0015-3sum](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0018-4sum) |
@@ -259,16 +261,16 @@ Leet Code Solutions
 | [2149-rearrange-array-elements-by-sign](https://github.com/vikash1630/LeetCode-Solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/vikash1630/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Bit Manipulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0136-single-number](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/vikash1630/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/vikash1630/LeetCode-Solutions/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/vikash1630/LeetCode-Solutions/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0015-3sum](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0018-4sum) |
@@ -294,8 +296,8 @@ Leet Code Solutions
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/vikash1630/LeetCode-Solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/vikash1630/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Divide and Conquer
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -306,8 +308,8 @@ Leet Code Solutions
 | [0347-top-k-frequent-elements](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vikash1630/LeetCode-Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0053-maximum-subarray](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0062-unique-paths/) | Medium |
@@ -351,8 +353,8 @@ Leet Code Solutions
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/vikash1630/LeetCode-Solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3620-network-recovery-pathways](https://github.com/vikash1630/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
 ## Simulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0054-spiral-matrix](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [1929-concatenation-of-array](https://github.com/vikash1630/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vikash1630/LeetCode-Solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -360,8 +362,8 @@ Leet Code Solutions
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vikash1630/LeetCode-Solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/vikash1630/LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
 ## Union-Find
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0128-longest-consecutive-sequence](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0200-number-of-islands) |
@@ -375,8 +377,8 @@ Leet Code Solutions
 | [2685-count-the-number-of-complete-components](https://github.com/vikash1630/LeetCode-Solutions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vikash1630/LeetCode-Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Matrix
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0048-rotate-image](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
@@ -397,8 +399,8 @@ Leet Code Solutions
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vikash1630/LeetCode-Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/vikash1630/LeetCode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Binary Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -419,8 +421,8 @@ Leet Code Solutions
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vikash1630/LeetCode-Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/vikash1630/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
 ## Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0020-valid-parentheses](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0085-maximal-rectangle](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
@@ -436,8 +438,8 @@ Leet Code Solutions
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vikash1630/LeetCode-Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/vikash1630/LeetCode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Greedy
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0055-jump-game](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0402-remove-k-digits](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
@@ -450,16 +452,16 @@ Leet Code Solutions
 | [1903-largest-odd-number-in-string](https://github.com/vikash1630/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2126-destroying-asteroids](https://github.com/vikash1630/LeetCode-Solutions/tree/master/2126-destroying-asteroids) |
 ## Trie
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0014-longest-common-prefix](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 ## String Matching
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0796-rotate-string](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0796-rotate-string) |
 ## Heap (Priority Queue)
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -471,13 +473,13 @@ Leet Code Solutions
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/vikash1630/LeetCode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/vikash1630/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
 ## Bucket Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0347-top-k-frequent-elements](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 ## Linked List
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0002-add-two-numbers](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
@@ -494,8 +496,8 @@ Leet Code Solutions
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/vikash1630/LeetCode-Solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/vikash1630/LeetCode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0002-add-two-numbers](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0050-powx-n](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0050-powx-n/) | Medium |
@@ -503,13 +505,13 @@ Leet Code Solutions
 | [0234-palindrome-linked-list](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
 ## Merge Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0148-sort-list](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vikash1630/LeetCode-Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0099-recover-binary-search-tree/) | Medium |
@@ -538,8 +540,8 @@ Leet Code Solutions
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/vikash1630/LeetCode-Solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Depth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0099-recover-binary-search-tree/) | Medium |
@@ -576,8 +578,8 @@ Leet Code Solutions
 | [2685-count-the-number-of-complete-components](https://github.com/vikash1630/LeetCode-Solutions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/vikash1630/LeetCode-Solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Binary Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0099-recover-binary-search-tree/) | Medium |
@@ -606,8 +608,8 @@ Leet Code Solutions
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/vikash1630/LeetCode-Solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Breadth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0100-same-tree](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -639,8 +641,8 @@ Leet Code Solutions
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/vikash1630/LeetCode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/vikash1630/LeetCode-Solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Binary Search Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0098-validate-binary-search-tree](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
@@ -652,24 +654,24 @@ Leet Code Solutions
 | [0701-insert-into-a-binary-search-tree](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/vikash1630/LeetCode-Solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Monotonic Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0085-maximal-rectangle](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0402-remove-k-digits](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/vikash1630/LeetCode-Solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/vikash1630/LeetCode-Solutions/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 ## Design
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0173-binary-search-tree-iterator](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 ## Iterator
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0173-binary-search-tree-iterator](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
 ## Graph Theory
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0207-course-schedule](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
@@ -685,16 +687,16 @@ Leet Code Solutions
 | [3310-remove-methods-from-project](https://github.com/vikash1630/LeetCode-Solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/vikash1630/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0207-course-schedule](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/vikash1630/LeetCode-Solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3620-network-recovery-pathways](https://github.com/vikash1630/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0743-network-delay-time](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/vikash1630/LeetCode-Solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -702,74 +704,74 @@ Leet Code Solutions
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/vikash1630/LeetCode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/vikash1630/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
 ## Counting Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/vikash1630/LeetCode-Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/vikash1630/LeetCode-Solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Segment Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vikash1630/LeetCode-Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Quickselect
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Enumeration
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1291-sequential-digits](https://github.com/vikash1630/LeetCode-Solutions/tree/master/1291-sequential-digits) |
 ## Number Theory
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vikash1630/LeetCode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 ## Memoization
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0070-climbing-stairs](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 ## Combinatorics
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0062-unique-paths](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0062-unique-paths/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/vikash1630/LeetCode-Solutions/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 ## Game Theory
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0486-predict-the-winner](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [1406-stone-game-iii](https://github.com/vikash1630/LeetCode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
 ## Minimax
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1406-stone-game-iii](https://github.com/vikash1630/LeetCode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
 ## Zero-Sum Game
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1406-stone-game-iii](https://github.com/vikash1630/LeetCode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
 ## Longest Common Subsequence
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/vikash1630/LeetCode-Solutions/tree/master/1092-shortest-common-supersequence) |
 ## Knapsack Problem
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0322-coin-change](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0322-coin-change) |
 ## Complete Knapsack
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0322-coin-change](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0322-coin-change) |
 ## Cartesian Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/vikash1630/LeetCode-Solutions/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 ## Backtracking
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/vikash1630/LeetCode-Solutions/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 ## Bracket Sequences
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0020-valid-parentheses](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
