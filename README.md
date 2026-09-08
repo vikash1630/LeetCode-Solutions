@@ -191,6 +191,7 @@ Leet Code Solutions
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/vikash1630/LeetCode-Solutions/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/vikash1630/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/vikash1630/LeetCode-Solutions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
+| [3870-count-commas-in-range](https://github.com/vikash1630/LeetCode-Solutions/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/vikash1630/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Counting
 |  |
