@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/remove-invalid-parentheses/?envType=daily-question&envId=2026-10-07">301. Remove Invalid Parentheses</a></h2><h3>Hard</h3><hr><p>Given a string <code>s</code> that contains parentheses and letters, remove the minimum number of invalid parentheses to make the input string valid.</p>
+<h2><a href="https://leetcode.com/problems/remove-invalid-parentheses">301. Remove Invalid Parentheses</a></h2><h3>Hard</h3><hr><p>Given a string <code>s</code> that contains parentheses and letters, remove the minimum number of invalid parentheses to make the input string valid.</p>
 
 <p>Return <em>a list of <strong>unique strings</strong> that are valid with the minimum number of removals</em>. You may return the answer in <strong>any order</strong>.</p>
 
