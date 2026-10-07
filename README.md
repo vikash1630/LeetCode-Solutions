@@ -218,6 +218,7 @@ Leet Code Solutions
 | [0132-palindrome-partitioning-ii](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [0151-reverse-words-in-a-string](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0402-remove-k-digits](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -633,6 +634,7 @@ Leet Code Solutions
 | [0200-number-of-islands](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
@@ -783,6 +785,7 @@ Leet Code Solutions
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/vikash1630/LeetCode-Solutions/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 ## Bracket Sequences
 |  |
