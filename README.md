@@ -99,6 +99,7 @@ Leet Code Solutions
 | [2126-destroying-asteroids](https://github.com/vikash1630/LeetCode-Solutions/tree/master/2126-destroying-asteroids) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vikash1630/LeetCode-Solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/vikash1630/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/vikash1630/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vikash1630/LeetCode-Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vikash1630/LeetCode-Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vikash1630/LeetCode-Solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
@@ -302,6 +303,7 @@ Leet Code Solutions
 | [1833-maximum-ice-cream-bars](https://github.com/vikash1630/LeetCode-Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vikash1630/LeetCode-Solutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2126-destroying-asteroids](https://github.com/vikash1630/LeetCode-Solutions/tree/master/2126-destroying-asteroids) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/vikash1630/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/vikash1630/LeetCode-Solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/vikash1630/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Divide and Conquer
@@ -429,6 +431,7 @@ Leet Code Solutions
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/vikash1630/LeetCode-Solutions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/vikash1630/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1631-path-with-minimum-effort](https://github.com/vikash1630/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/vikash1630/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vikash1630/LeetCode-Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/vikash1630/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
 ## Stack
@@ -466,6 +469,7 @@ Leet Code Solutions
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vikash1630/LeetCode-Solutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/vikash1630/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2126-destroying-asteroids](https://github.com/vikash1630/LeetCode-Solutions/tree/master/2126-destroying-asteroids) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/vikash1630/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Trie
 |  |
 | ------- |
@@ -484,6 +488,7 @@ Leet Code Solutions
 | [0787-cheapest-flights-within-k-stops](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vikash1630/LeetCode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/vikash1630/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/vikash1630/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/vikash1630/LeetCode-Solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/vikash1630/LeetCode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/vikash1630/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
