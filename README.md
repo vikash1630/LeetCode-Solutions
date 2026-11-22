@@ -237,6 +237,7 @@ Leet Code Solutions
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vikash1630/LeetCode-Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/vikash1630/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vikash1630/LeetCode-Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [2243-check-if-all-as-appears-before-all-bs](https://github.com/vikash1630/LeetCode-Solutions/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/vikash1630/LeetCode-Solutions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/vikash1630/LeetCode-Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/vikash1630/LeetCode-Solutions/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
