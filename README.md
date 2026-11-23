@@ -87,6 +87,7 @@ Leet Code Solutions
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vikash1630/LeetCode-Solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/vikash1630/LeetCode-Solutions/tree/master/1463-cherry-pickup-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vikash1630/LeetCode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1477-product-of-the-last-k-numbers](https://github.com/vikash1630/LeetCode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/vikash1630/LeetCode-Solutions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/vikash1630/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/vikash1630/LeetCode-Solutions/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
@@ -168,6 +169,7 @@ Leet Code Solutions
 | [0930-binary-subarrays-with-sum](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vikash1630/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vikash1630/LeetCode-Solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+| [1477-product-of-the-last-k-numbers](https://github.com/vikash1630/LeetCode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vikash1630/LeetCode-Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/vikash1630/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/vikash1630/LeetCode-Solutions/tree/master/3904-smallest-stable-index-ii) |
@@ -186,6 +188,7 @@ Leet Code Solutions
 | [0877-stone-game](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/vikash1630/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1406-stone-game-iii](https://github.com/vikash1630/LeetCode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
+| [1477-product-of-the-last-k-numbers](https://github.com/vikash1630/LeetCode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/vikash1630/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vikash1630/LeetCode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/vikash1630/LeetCode-Solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -687,6 +690,7 @@ Leet Code Solutions
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
+| [1477-product-of-the-last-k-numbers](https://github.com/vikash1630/LeetCode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 ## Iterator
 |  |
 | ------- |
@@ -800,4 +804,8 @@ Leet Code Solutions
 | [0032-longest-valid-parentheses](https://github.com/vikash1630/LeetCode-Solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/vikash1630/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vikash1630/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/vikash1630/LeetCode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
