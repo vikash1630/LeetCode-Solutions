@@ -108,6 +108,7 @@ Leet Code Solutions
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/vikash1630/LeetCode-Solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3620-network-recovery-pathways](https://github.com/vikash1630/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/vikash1630/LeetCode-Solutions/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
+| [3702-maximum-subarray-with-equal-products](https://github.com/vikash1630/LeetCode-Solutions/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/vikash1630/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vikash1630/LeetCode-Solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/vikash1630/LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
@@ -160,6 +161,7 @@ Leet Code Solutions
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vikash1630/LeetCode-Solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/vikash1630/LeetCode-Solutions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vikash1630/LeetCode-Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3702-maximum-subarray-with-equal-products](https://github.com/vikash1630/LeetCode-Solutions/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -194,6 +196,7 @@ Leet Code Solutions
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/vikash1630/LeetCode-Solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/vikash1630/LeetCode-Solutions/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/vikash1630/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/vikash1630/LeetCode-Solutions/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/vikash1630/LeetCode-Solutions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3870-count-commas-in-range](https://github.com/vikash1630/LeetCode-Solutions/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/vikash1630/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -747,10 +750,12 @@ Leet Code Solutions
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/vikash1630/LeetCode-Solutions/tree/master/1291-sequential-digits) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/vikash1630/LeetCode-Solutions/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Number Theory
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vikash1630/LeetCode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [3702-maximum-subarray-with-equal-products](https://github.com/vikash1630/LeetCode-Solutions/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Memoization
 |  |
 | ------- |
